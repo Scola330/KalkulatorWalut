@@ -1,3 +1,6 @@
+Open Readme.md for more information
+                            
+                            
                             This is one of my school projects I was making for desktop aplication lessons
                             
                                                   if you are working at the same project
